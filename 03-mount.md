@@ -13,4 +13,4 @@
 Для `/tmp` обычно используют связку: `noexec,nosuid,nodev`.
 
 ## Скриншоты
-*   Скриншот работы опции noexec: `screenshots/03-noexec.png`
+![noexec](screenshots/03-noexec.png)
