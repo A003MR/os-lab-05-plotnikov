@@ -16,5 +16,5 @@
 Для HDD — надежно затереть через `shred` или `dd` (записать нули). Для SSD — сделать `secure erase` через утилиты производителя (ATA Secure Erase) или физически уничтожить чипы памяти (разобрать и сломать).
 
 ## Скриншоты
-*   Поиск пароля после rm: `screenshots/06-grep-rm.png`
-*   Поиск пароля после shred: `screenshots/06-grep-shred.png`
+![grep rm](screenshots/06-grep-rm.png)
+![grep shred](screenshots/06-grep-shred.png)
